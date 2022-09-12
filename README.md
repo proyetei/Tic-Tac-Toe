@@ -8,7 +8,7 @@ Description:
 https://en.wikipedia.org/wiki/Tic-tac-toe#Strategy
 
 How to run:
-Clone and Run player.py to play the game. 
+Clone and Run game.py to play the game. 
 
 Future Modifications:
 
